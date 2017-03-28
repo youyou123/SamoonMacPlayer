@@ -15,7 +15,7 @@
 
 
 @end
-
+//更新数据
 @implementation AppDelegate
 
 NSString *tutvideos=@"http://www.nextbase.co.uk/412GWtutvideo";
